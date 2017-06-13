@@ -1,6 +1,6 @@
 # My Xcode theme
 
-This repository contains the Xcode theme that I use every day. The repository was created looking at John Sundell's [XcodeTheme repository](https://github.com/JohnSundell/XcodeTheme)
+This repository contains the Xcode theme that I use every day. The repository was created looking at John Sundell's [XcodeTheme](https://github.com/JohnSundell/XcodeTheme) repository
 
 ![](Preview.png)
 
