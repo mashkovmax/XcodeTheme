@@ -23,7 +23,7 @@ marathon run mashkovmax/xcodetheme
 
 1. Clone this repo:
 ```
-$ git clone https://github.com/johnsundell/xcodetheme.git
+$ git clone https://github.com/mashkovmax/xcodetheme.git
 ```
 
 2. Create a folder at this path if it doesn't exist already:
