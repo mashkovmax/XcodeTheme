@@ -11,7 +11,7 @@ The easiest way to install this Xcode theme is using **[Marathon](https://github
 1. Install the latest version of [Marathon](https://github.com/JohnSundell/Marathon) if you haven't already:
 ```
 $ git clone https://github.com/johnsundell/marathon.git
-$ cd Marathon && make
+$ cd marathon && make
 ```
 
 2. Run the install script which will install this Xcode theme for you:
