@@ -109,9 +109,9 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.4 0.4 0.4 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.999996 0.999939 0.0410333 1</string>
+		<string>0.999999 0.999974 0.999991 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.362946 0.846428 0.998966 1</string>
+		<string>0.999996 0.999939 0.0410333 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0 1 0.2 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
